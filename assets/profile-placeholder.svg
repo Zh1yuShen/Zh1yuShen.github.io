@@ -1,0 +1,11 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" rx="48" fill="#F6EBDD"/>
+  <circle cx="668" cy="198" r="122" fill="#D4A373" fill-opacity="0.34"/>
+  <circle cx="230" cy="912" r="172" fill="#295A63" fill-opacity="0.16"/>
+  <path d="M197 296C197 184.439 287.439 94 399 94H502C613.561 94 704 184.439 704 296V804C704 915.561 613.561 1006 502 1006H399C287.439 1006 197 915.561 197 804V296Z" fill="#FFF7EE"/>
+  <path d="M277 358C277 287.307 334.307 230 405 230H496C566.693 230 624 287.307 624 358V744C624 814.693 566.693 872 496 872H405C334.307 872 277 814.693 277 744V358Z" fill="#E8D8C6"/>
+  <circle cx="450.5" cy="404.5" r="117.5" fill="#DCC2A8"/>
+  <path d="M300 800C300 688.402 390.402 598 502 598H399C510.598 598 601 688.402 601 800V826H300V800Z" fill="#B85C38"/>
+  <path d="M352 410C352 354.772 396.772 310 452 310V310C507.228 310 552 354.772 552 410V485H352V410Z" fill="#7F2F1B"/>
+  <text x="450" y="566" text-anchor="middle" fill="#201A17" font-family="Space Grotesk, Arial, sans-serif" font-size="86" font-weight="700">ZS</text>
+</svg>
