@@ -1,0 +1,6 @@
+# Private materials not used by the public site.
+/cailiao/
+
+# Common local OS files.
+.DS_Store
+Thumbs.db
